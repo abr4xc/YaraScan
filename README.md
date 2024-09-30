@@ -8,7 +8,7 @@
 - **Memory Scanning**: Scan the entire system memory for patterns or signatures defined in YARA rules.
 - **Process Memory Scanning**: Target a specific process and scan its memory for YARA rule matches.
 
-# instalation 
+# Instalation 
 ```
 git clone https://github.com/abr4xc/YaraScan.git
 cd YaraScan
